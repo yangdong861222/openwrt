@@ -3,8 +3,8 @@ PKG_DRIVERS += \
 	rtl8192ce rtl8192se rtl8192de rtl8192cu rtl8192du rtl8723-common rtl8723be \
 	rtl8723bs rtl8821ae rtl8xxxu rtw88 rtw88-pci rtw88-usb rtw88-sdio rtw88-8821c \
 	rtw88-8822b rtw88-8822c rtw88-8723x rtw88-8723d rtw88-8821ce rtw88-8821cu \
-	rtw88-8822be rtw88-8822bu rtw88-8822ce rtw88-8822cs rtw88-8822cu rtw88-8723de \
-	rtw88-8723ds rtw88-88xxa rtw88-8821a rtw88-8812a rtw88-8821au rtw88-8812au \
+	rtw88-8822be rtw88-8822bu rtw88-8822ce rtw88-8822cu rtw88-8723de rtw88-8723ds \
+	rtw88-88xxa rtw88-8821a rtw88-8812a rtw88-8821au rtw88-8812au \
 	rtw88-8814a rtw88-8814ae rtw88-8814au \
 	rtw88-8723du rtw89 rtw89-pci rtw89-8851be rtw89-8852ae rtw89-8852b-common \
 	rtw89-8852be rtw89-8852ce rtw89-8922ae
